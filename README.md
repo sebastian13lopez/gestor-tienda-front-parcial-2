@@ -8,3 +8,9 @@ Este proyecto es un aplicación web construida con html, bootstrap y con una api
 # Desarrolladores:
 **Juan Sebastián López** - 192061
 **Marco Estivens Castellanos** - 192059
+
+# Capturas
+![Interfaz principal de Login](image.png)
+![Dashboard del gestor de Tienda](image-1.png)
+![Pantalla de lista de Usuarios](image-2.png)
+![Pantalla de lista de Productos](image-3.png)
